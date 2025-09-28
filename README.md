@@ -20,7 +20,7 @@ A collection of experimental, generative, and decolonial AI exploring post-geogr
 ---
 
 ## 🌀 Subtle Vectors of Otherness  
-[**Launch App**](https://subtle-vectors-of-otherness.vercel.app/)  
+[**Launch App**](https://subtle-vectors-of-otherness-n6gk.vercel.app/)  
 [**View on GitHub**](https://github.com/marlonbarrios/subtle_vectors_of_otherness?tab=readme-ov-file#subtle-vectors-of-otherness)
 
 ---

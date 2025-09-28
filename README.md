@@ -6,7 +6,6 @@
 A collection of experimental, generative, and decolonial AI exploring post-geographies, speculative cognition, and the poetics of latent space.
 
 ---
----
 
 ## 🌍 Pangea in Latent Space and the Tectonics of Otherness  
 [**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  

@@ -1,7 +1,16 @@
 # list_of_applications_UI
+
+
 # 🌍 Pangea_IA Projects
 
 A collection of experimental, generative, and decolonial AI exploring post-geographies, speculative cognition, and the poetics of latent space.
+
+---
+---
+
+## 🌍 Pangea in Latent Space and the Tectonics of Otherness  
+[**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  
+[**View on GitHub**](https://github.com/marlonbarrios/pangea_in_latent-space?tab=readme-ov-file#pangea-in-latent-space)
 
 ---
 

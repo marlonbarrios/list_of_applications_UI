@@ -1,7 +1,7 @@
 # list_of_applications_UI
 # 🌍 Pangea_IA Projects
 
-A collection of experimental, generative, and decolonial AI projects by **Marlon Barrios Solano**, exploring post-geographies, speculative cognition, and the poetics of latent space.
+A collection of experimental, generative, and decolonial AI exploring post-geographies, speculative cognition, and the poetics of latent space.
 
 ---
 

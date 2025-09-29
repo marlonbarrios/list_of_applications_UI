@@ -55,10 +55,12 @@ A collection of experimental, generative, and decolonial AI exploring post-geogr
 
 ---
 
-## 🎥 Video Playlist – *Dark Enlightenment & Techno-Republic: We Came to Rule*
+## 🎥 Video Playlist – *Dark Enlightenmen, Techno-Republic and other Vectors*
+
+[**Video Playlist**](https://youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3&si=smkFxJG4Tii0mGm6)
 
 ### 🌀 Dark Enlightenment Scroll  
-[**Launch App**](https://dark-enlightenment.vercel.app/)  
+
 [**View on GitHub**](https://github.com/marlonbarrios/dark_enlightenment?tab=readme-ov-file#dark-enlightenment-scroll)
 
 ---

@@ -1,4 +1,4 @@
-# list_of_applications_UI
+# list_of_Applications/Interfaces/Experiences
 
 
 # 🌍 Pangea_IA Projects
@@ -64,3 +64,9 @@ A collection of experimental, generative, and decolonial AI exploring post-geogr
 [**View on GitHub**](https://github.com/marlonbarrios/dark_enlightenment?tab=readme-ov-file#dark-enlightenment-scroll)
 
 ---
+
+### 🌀 Dreamscaping Territories by Lenara Verle 
+
+[**Dreamscaping Territories**](https://dreamscaping.ju.mp/)
+
+

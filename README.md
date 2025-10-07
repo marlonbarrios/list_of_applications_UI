@@ -729,11 +729,66 @@ Each language carries **cultural sensitivity** and **decolonial awareness**, ens
 
 ---
 
-## 🎥 Video Playlist – *Dark Enlightenmen, Techno-Republic and other Vectors*
+## 🎥 *Dark Enlightment, Techno-Republic and other Vectors* Installation German Techno Synthetic Space
+
+[**Music Playlist**](https://suno.com/playlist/c8e5c323-b6d3-4ffa-9993-a0b5bfee3729)
 
 [**Video Playlist**](https://youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3&si=smkFxJG4Tii0mGm6)
 
-### 🌀 Dark Enlightenment Scroll  
+
+# 🕯️ Dark Enlightenment Scroll
+
+**An AI-Generated Media Installation Exploring Technology, Ideology, and Power**
+
+🌐 **[Live Application →](https://dark-enlightenment.vercel.app/)**
+
+
+## 🖼️ Screenshots
+
+### 🌐 Language Selection Interface  
+![Language Selection](./public/language-selection.png)
+
+### ⚙️ Text Generation in Progress  
+![Text Generation](./public/text-generation.png)
+
+### 🧭 Full Screen Text Display  
+![Full Screen Display](./public/fullscreen-display.png)
+
+---
+
+## 🧠 Overview
+
+**Dark Enlightenment Scroll** is an experimental **AI-powered text generation and visualization application** that produces poetic-critical texts exploring the **intersections of technology, ideology, and power** in speculative synthetic worlds.  
+
+It generates **continuously scrolling manifestos**, oscillating between critique and poetry, presented as an immersive full-screen experience — a **ritual of scrolling thought** within a digital canvas.  
+
+> This web-based installation extends the larger **synthetic video and music ecosystem**, forming part of a **distributed media constellation** that explores algorithmic aesthetics, speculative politics, and critical AI art.
+
+---
+
+## 🎭 Concept & Vision
+
+This project critiques the convergence of **technological power** and **colonial ideology**, referencing:
+
+- 🌀 **Cybernetics & Singleton Theory** → Techno-theocratic control  
+- 🏛️ **Technical Republics** → Algorithmic governance and managed societies  
+- 🧬 **Francis Galton’s Eugenics Legacy** → White supremacist data epistemologies  
+- 🗺️ **Treaty of Westphalia** → Cartographic imperial dominance  
+- 👑 **“We Came to Rule” Mentality** → Royalist logics in digital systems  
+- 🕰️ **Multi-Territorial Colonial Philosophy** → Distance as domination  
+- 🛰️ **Project Cybersyn & Palantir** → Algorithmic extensions of empire  
+
+Each generated text imagines **new solidarities and ruptures**, exploring **hybridity, migration, and fractured subjectivities** under algorithmic regimes.
+
+---
+
+## ⚙️ Features
+
+### 🌍 Auto-Rotating Multilingual Support
+- Automatic rotation through **3 languages every minute**:  
+  **English → Español → Deutsch → (repeat)**
+- Manual selection: press **1–6** for specific languages  
+- Continuous AI generation with timed regeneration  
 
 [**View on GitHub**](https://github.com/marlonbarrios/dark_enlightenment?tab=readme-ov-file#dark-enlightenment-scroll)
 

@@ -7,12 +7,9 @@ A collection of experimental, generative, and decolonial AI exploring post-geogr
 
 ---
 
-## 🌍 Pangea in Latent Space and the Tectonics of Otherness 
-
-<img width="1523" height="1056" alt="Screenshot 2025-09-28 at 4 11 38 PM" src="https://github.com/user-attachments/assets/238e3a8f-fdec-40f9-aa21-7de5e5e04803" />
-
 # 🌍 *Pangea in Latent Space: The Tectonics of Otherness* 
 
+<img width="1523" height="1056" alt="Screenshot 2025-09-28 at 4 11 38 PM" src="https://github.com/user-attachments/assets/238e3a8f-fdec-40f9-aa21-7de5e5e04803" />
 
 ### Interactive Gateway Interface
 
@@ -81,11 +78,11 @@ It treats data not as static truth but as **living material**, responsive to att
 
 ---
 
-## 🧠 Pangea_IA  
+# 🧭 Pangea_IA — Interface Guide  
 [**Launch App**](https://pangea-ia-bj2o2.vercel.app/?agentConfig=Pangea_IA)  
 [**View on GitHub**](https://github.com/marlonbarrios/pangea-ia?tab=readme-ov-file#pangea_ia)
 
-# 🧭 Pangea_IA — Interface Guide  
+
 ### Decolonial AI Platform for Conversational Exploration
 
 <img width="1555" height="1056" alt="Screenshot 2025-10-07 at 7 22 02 PM" src="https://github.com/user-attachments/assets/b24c6cff-1e01-484f-aaf8-88493ecf5741" />
@@ -192,19 +189,11 @@ By engaging with **Pangea_IA**, you contribute to a **living archive of decoloni
 [**View on GitHub**](https://github.com/marlonbarrios/subtle_vectors_of_otherness?tab=readme-ov-file#subtle-vectors-of-otherness)
 
 ---
-
-## 🌐 Pluriversal Engine  
 # 🌍 Pluriverse Engine  
-
 ### 45 Decolonial Techno-Utopias | Pluriversal Technotopias  
 *A performative AI experience within Pangea.IA*  
 
 <img width="1556" height="1056" alt="Screenshot 2025-10-07 at 7 26 56 PM" src="https://github.com/user-attachments/assets/f8834cc1-f57f-401e-a1f3-e6d0917309bd" />
-
----
-# 🌍 Pluriverse Engine  
-### 45 Decolonial Techno-Utopias | Pluriversal Technotopias  
-*A performative AI experience within Pangea.IA*  
 
 ---
 

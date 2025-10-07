@@ -358,7 +358,6 @@ a gesture toward *seeing, naming, and transforming* the subtle forces of otherne
 
 # 🧳 El Immigrante – *An Endless Tale of Memory and Loss*  
 
-# 🎭 El Immigrante  
 ### A Contemplative Digital Installation About Memory and Migration  
 
 <img width="1559" height="1056" alt="Screenshot 2025-10-07 at 7 55 30 PM" src="https://github.com/user-attachments/assets/7f61e6e4-4874-4056-ac74-eb4bf2d79c23" />
@@ -491,28 +490,104 @@ It asks you to:
 
 ---
 
-## 🚀 Setup Instructions  
 
-```bash
-# 1. Clone or download the repository
-git clone https://github.com/marlonbarrios/el-immigrante
-cd el-immigrante
-
-# 2. Install dependencies
-npm install
-
-# 3. Configure API Key
-echo "VITE_OPENAI_API_KEY=your_openai_api_key_here" > .env
-
-# 4. Start development server
-npm run dev
-# Open http://localhost:5173
-[**Launch App**](https://elinmigrante.vercel.app/)  
-[**View on GitHub**](https://github.com/marlonbarrios/elinmigrante?tab=readme-ov-file#el-immigrante--an-endless-tale-of-memory-and-loss)
 
 ---
 
-## 🎶 Transcriptional Fuge & La Atención a la Ausencia  
+
+# 🎼 Transcriptional Fugue: Minding the Gaps  
+### An AI-Generated Media Installation by Marlon Barrios Solano  
+
+<img width="1559" height="1056" alt="Screenshot 2025-10-07 at 7 59 23 PM" src="https://github.com/user-attachments/assets/b34da9c5-6050-43d8-b047-a630b54b871f" />
+<img width="1608" height="1041" alt="Screenshot 2025-10-07 at 8 00 06 PM" src="https://github.com/user-attachments/assets/0650f72b-6231-447c-ab24-8fd961cb4ae7" />
+
+---
+
+## 💡 About the Installation  
+
+**Transcriptional Fugue: Minding the Gaps** invites visitors to explore how artificial intelligence encounters — and reveals — its **linguistic limitations**.  
+
+Through real-time text generation, the installation systematically tests what languages AI can and cannot speak, exposing how **digital colonialism** shapes which voices are amplified and which are silenced.  
+
+Each time the AI encounters a language it doesn’t know, it **apologizes**, rather than inventing or fabricating — transforming ignorance into a gesture of **acknowledgment and humility**.  
+
+> 🌀 The work turns technological failure into a poetic act of recognition, asking:  
+> *Which languages are visible in the algorithmic age — and which remain in the gaps?*
+
+---
+
+## 🌐 Experience the Installation Live  
+
+🔗 [**Launch Installation**](https://fugatrancriptional-mindingthegaps.vercel.app)
+
+---
+
+## 🧭 Visitor Instructions  
+
+### 1️⃣ Enter the Installation  
+Open the live application and let the system begin.  
+Text will appear automatically — **you don’t need to press anything** to start.  
+
+Each 20-second cycle reveals a **new test** of AI’s language knowledge.
+
+---
+
+### 2️⃣ Observe the Fugue  
+Watch as the system moves through **different languages**, generating poetic-critical text.  
+- When the AI knows a language, it produces generative reflections.  
+- When it doesn’t, it **pauses and apologizes**, marking the **gap** in its training.  
+
+This **linguistic fugue** repeats endlessly — weaving sound, motion, and language into a contemplative rhythm.
+
+---
+
+### 3️⃣ Interact (Optional)  
+
+Use the **keyboard** or **mouse** to explore:  
+
+| Control | Action |
+|----------|--------|
+| **SPACEBAR** | Toggle *Fugue Mode* (automatic language cycling) |
+| **L** | Open language menu / manually select a language |
+| **E** | Show or hide language exposition (information panel) |
+| **I** | Toggle cultural/historical info display |
+| **T** | Activate *Test Mode* (for limited knowledge responses) |
+| **Mouse Click / Scroll** | Navigate or hover over language options |
+
+> 💡 *Try selecting a language you speak. Observe whether AI can respond — or must apologize.*
+
+---
+
+### 4️⃣ Listen  
+Ambient **soundscapes** accompany the text:  
+- 🌬 *Wind noise* for reflection and breath  
+- 🎵 *Drone tones* that shift with each language  
+- 🤫 *Silence* when the AI lacks knowledge  
+
+Sound becomes a **metaphor for presence and absence** — the audible rhythm of inclusion and omission.
+
+---
+
+### 5️⃣ Reflect  
+This is not a tool but a **mirror** — revealing the hierarchies embedded in machine learning.  
+Stay, read, and listen. Notice when the AI **fails** — and how it **acknowledges its limits**.  
+
+> ✨ Each apology is an act of care — each silence, an invitation to remember what’s missing.
+
+---
+
+## 🧘‍♀️ Interaction Philosophy  
+
+- 🕊 **Slow Experience:** The piece unfolds gradually — let it breathe.  
+- 🧠 **Critical Awareness:** Focus on what’s absent, not only what appears.  
+- 🌍 **Linguistic Justice:** Every gap is a reminder of the languages excluded.  
+
+You are invited to **witness**, not command — to **observe**, not consume.  
+
+---
+
+🌀 *“To mind the gap is to make absence visible — to name what has been erased.”*  
+— *Pangea_IA · Marlon Barrios Solano & María Luisa Angulo*
 [**Launch App**](https://fugatrancriptional-mindingthegaps.vercel.app/)  
 [**View on GitHub**](https://github.com/marlonbarrios/fugatrancriptional_mindingthegaps?tab=readme-ov-file#transcriptional-fugue-minding-the-gaps)
 

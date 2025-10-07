@@ -88,6 +88,108 @@ It treats data not as static truth but as **living material**, responsive to att
 ---
 
 ## 🌀 Subtle Vectors of Otherness  
+
+# 🧭 Pangea_IA — Interface Guide  
+### Decolonial AI Platform for Conversational Exploration
+
+<img width="1555" height="1056" alt="Screenshot 2025-10-07 at 7 22 02 PM" src="https://github.com/user-attachments/assets/b24c6cff-1e01-484f-aaf8-88493ecf5741" />
+
+
+---
+
+## 💡 Overview
+
+The **Pangea_IA Interface** is designed to make interaction with the **Decolonial AI agents** intuitive and accessible.  
+It enables **real-time voice or text conversations** in multiple languages, allowing users to explore critical questions about **technology, colonialism, and epistemic resistance**.
+
+Every interaction becomes part of an **artistic inquiry**, transforming AI dialogue into a **living, decolonial conversation**.
+
+---
+
+## 🖥️ Interface Layout
+
+### 🧩 Top Navigation Bar
+This section contains all the **configuration controls** before initiating a session.
+
+| Element | Description |
+|----------|--------------|
+| **Scenario Dropdown** | Choose a *scenario* that defines the thematic context (e.g., `Pangea_IA`). Scenarios can include custom knowledge, prompts, or narrative frameworks. |
+| **Agent Dropdown** | Select which **AI agent** you want to engage with. Each agent embodies a unique role (e.g. *Decolonial Consultant*, *Thermometer of Coloniality*). |
+| **Language Dropdown** | Select the **language** for your session. The platform supports 13 languages. Always select your language **before connecting**. |
+
+---
+
+### 🧾 Transcript Panel
+- The **Transcript** area displays your entire conversation.  
+- It shows both **user input** and **AI responses**.  
+- This space becomes a **living document** of your epistemic journey.
+
+**Buttons (top-right):**
+- 📝 **Copy** — Copy the full conversation to clipboard.  
+- 🎧 **Download Audio** — Save an audio version of the interaction.
+
+---
+
+### 💬 Message Input Field
+Located at the bottom left of the interface:
+
+- Type a question or message directly into the **“Type your message...”** field.  
+- Press **Enter** to send text-based queries.  
+- This mode complements **voice interaction** for moments when you prefer to write.
+
+---
+
+### ⚙️ Control Bar (Bottom)
+The control bar governs **connection**, **speech**, and **audio settings**.
+
+| Element | Function |
+|----------|-----------|
+| **Connect Button** | Initiates the AI connection. You must press **Connect** before starting the session. |
+| **Push to Talk Checkbox** | Enables **voice mode** using the **spacebar**. When checked, you must **hold Space** to talk, and release to stop. |
+| **Talk (Space)** | Indicator showing **Push-to-Talk** status. Only active when voice mode is enabled. |
+| **Audio Playback** | Enables audio output of the AI’s responses (text-to-speech). |
+| **Logs** | Optional debugging panel for developers or advanced users. |
+| **Codec Selector** | Choose the **audio codec** (e.g. `Opus 48 kHz`) to optimize voice quality. |
+
+---
+
+### 🧠 Conceptual Footer
+
+At the bottom, you’ll see a subtle footer bar:
+> “Decolonial AI art project. Simulation content for educational exploration.”
+
+This reminds users that **Pangea_IA** is not merely a utility — it is a **research-based art project**, where every conversation is a **simulation for reflection and inquiry**.
+
+It also includes:
+- Project credits  
+- Residency context (*Beyond Gravity Festival, Theater im Depot, Dortmund*)  
+- Development attribution  
+- Last updated date  
+
+---
+
+## 🚀 How to Start a Session
+
+1. **Select Language** → Choose from the dropdown (top-right).  
+2. **Choose Scenario & Agent** → Begin with `Pangea_IA`.  
+3. **Press Connect** → Wait for confirmation.  
+4. **Enable Push-to-Talk** *(optional)* → Check the box if you want voice mode.  
+5. **Hold Spacebar** → Speak your question or thought.  
+6. **Release Spacebar** → The bot will respond via text (and optionally voice).  
+
+You may also **type your question** and press **Enter** if you prefer text input.
+
+---
+
+## 🌱 Conceptual Note
+
+Each session unfolds as a **dialogical performance** — a choreography of **listening, speaking, and imagining** across linguistic and cultural boundaries.  
+
+By engaging with **Pangea_IA**, you contribute to a **living archive of decolonial knowledge**, where **AI becomes a collaborator**, not a colonizer.
+
+---
+
+🧭 *Welcome to Pangea_IA — an interface for epistemic justice and creative exploration.*
 [**Launch App**](https://subtle-vectors-of-otherness-n6gk.vercel.app/)  
 [**View on GitHub**](https://github.com/marlonbarrios/subtle_vectors_of_otherness?tab=readme-ov-file#subtle-vectors-of-otherness)
 

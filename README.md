@@ -295,17 +295,7 @@ You will see a **minimal interface** that centers attention on **text generation
 
 ---
 
-### 2️⃣ Choose or Generate a Theme
-Select a **theme** representing a type of subtle discrimination or microaggression:
-
-- 🧑🏾‍🦱 **Race / Ethnicity**  
-- 👩‍🦰 **Gender / Sexuality**  
-- 🧍 **Body / Ability**  
-- 💼 **Class / Education**  
-- 🕊 **Religion / Nationality**  
-- 🧠 **Neurodiversity / Age**  
-
-Or click **Generate** to let the AI choose a **random vector** of otherness.
+ **Generate** to let the AI choose a **random vector** of otherness.
 
 > 🎯 Each theme acts as a *lens of inquiry* — focusing your reflection on one domain of subtle exclusion.
 
@@ -490,11 +480,6 @@ It asks you to:
 
 ---
 
-
-
----
-
-
 # 🎼 Transcriptional Fugue: Minding the Gaps  
 ### An AI-Generated Media Installation by Marlon Barrios Solano  
 
@@ -593,13 +578,152 @@ You are invited to **witness**, not command — to **observe**, not consume.
 
 ---
 
-## 👻 In Pursuit of Stolen Ghosts – *Duet in Latent Space*  
+## 👻 In Pursuit of Stolen Ghosts
+
+# 🌀 *in pursuit of stolen ghosts | duet in latent space*
+
+![Image of performance](https://github.com/marlonbarrios/fall-ai-turbo/blob/mondrian/public/ghost.png "image of performance")
+
+---
+
+## 🧭 Overview
+
+**in pursuit of stolen ghosts | Duet in Latent Space**  
+by *Marlon Barrios Solano*  
+
+An interactive performance-application blending **generative AI**, **sound design**, and **live drawing**, developed during an artistic research residency at **Lake Studios Berlin** (February 2024).  
+
+This live browser-based experience allows performer and audience to enter a **latent space**—a probabilistic, multidimensional realm where art emerges from interaction with a generative model.  
+
+The concept of **“stolen ghosts”** evokes diasporic memory and loss, drawing on Marlon’s Venezuelan heritage and migrations through the USA and Germany. These “ghosts” represent erased ancestries and fragmented identities, conjured back through AI-driven imagination and live performance.
+
+---
+
+## 🧩 Conceptual Background
+
+Latent space is the **hidden mathematical dimension** inside AI models where relationships between data points are encoded.  
+Performing in this space means creating **within probabilities**, improvising with the AI’s generative tendencies to reveal unseen patterns, and producing **a duet between human and machine**.
+
+> Each gesture, prompt, and sound becomes part of a dance in probability space — a ritual of remembering through generation.
+
+---
+
+## 🎶 Composition
+
+The project integrates:
+
+- 🧠 **LCM Turbo (Fal.ai):** Ultra-fast text/image generation responding in real-time  
+- ✏️ **Excalidraw Canvas:** Draw and co-create sketches that become prompts for Fal.ai  
+- 🎧 **Custom Soundtrack (Musicgen):** A meditative sonic space accompanying each visual cycle  
+
+Users/performers interact in real-time — sketching, prompting, and composing visual “ghosts” with the system.
+
+🎥 [See the Live Demo](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts/assets/90220317/38c90e71-d029-418d-9691-0bee5fe64b51)
+
+---
+
+## 🚀 Try It Live
+
+🧭 [**Launch the Live App**](https://in-pursuit-of-stolen-ghosts.vercel.app/)  
+
+Once open:  
+1. Type or draw your input.  
+2. Watch Fal.ai generate an evolving visual interpretation.  
+3. Optionally play the soundtrack for full immersion.  
+
+Each session is **unique and ephemeral**, echoing the theme of memory and loss.  
+
+![Image of performance](https://github.com/marlonbarrios/fall-ai-turbo/blob/mondrian/public/ghost2.jpg "image of performance")
 [**Launch App**](https://in-pursuit-of-stolen-ghosts.vercel.app/)  
 [**View on GitHub**](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts?tab=readme-ov-file#in-pursuit-of-stoten-ghosts--duet-in-latent-space)
 
 ---
 
-## 🧬 Proteans – *Trans-Temporal Dating Portal*  
+
+# 🌀 **Proteus: Trans-Temporal Dating Portal**  
+### "There is someone for you… in the future."
+
+<img width="1384" height="1026" alt="Screenshot 2025-10-07 at 8 12 04 PM" src="https://github.com/user-attachments/assets/4a0cee4b-77cf-4fef-a44a-22b76961b0cb" />
+
+
+## 🧠 Key Concept
+
+**Profiles on Proteus** are designed as **narratives of potential futures**, embracing the radical fluidity of:
+
+- 🧬 **Genealogies:** Heritage and genetic codes become **fluid and collaborative**, no longer fixed.  
+- 🧭 **Disciplines:** Rigid academic and professional boundaries dissolve into **interdisciplinary hybrids**.  
+- ⚙️ **Labor:** AI and post-scarcity economies redefine **work, value, and productivity**.  
+- 🌍 **Nations:** Geopolitical borders blur; identities evolve into **global or planetary forms**.  
+- 💞 **Relationships:** Romantic, platonic, and communal bonds **break traditional molds**.  
+- 🧍‍♂️ **Bodies:** Human form expands through **biotech, AR, and virtual embodiment**, transcending physical limits.  
+
+Each **profile** speculates how these transformations might manifest, turning every user interaction into a **playful yet profound engagement** with possible futures.
+
+---
+
+## ✨ Features
+
+### 1️⃣ Speculative Profiles
+Time travelers embody a **future of boundless possibilities**, with AI crafting each one through chained generative processes:
+
+- 📝 **Text:** Generated by *GPT-3.5*, offering 18-line multilingual narratives with decolonial perspectives  
+- 🖼️ **Visuals:** *DALL·E* produces **Blade Runner–style noir portraits** with diverse representation  
+- 🌐 **Languages:** 9 fully localized variations, each culturally adapted  
+
+---
+
+### 2️⃣ Interactive Controls
+
+| Key | Action |
+|-----|--------|
+| **SPACE** | Open a portal and generate a new time traveler |
+| **L** | Cycle through available languages |
+| **S** | Save the current traveler as an image |
+| — | Fully responsive interface for desktop and mobile |
+
+---
+
+### 3️⃣ Advanced Visual Effects
+
+- 🧠 **AI Surveillance Overlay:** Recognition squares animate during generation  
+- 🌊 **Liquid Background:** Flowing, adaptive grid motion  
+- 🎬 **Noir Cinematography:** High-contrast, filmic portrait lighting  
+- 🕰️ **Temporal Scanning:** Cyberpunk interface animations  
+
+---
+
+### 4️⃣ Multilingual Generation
+
+- 🌎 **Cultural Adaptation:** Prompts respect regional and indigenous frameworks  
+- 🗣️ **Languages:**  
+  - English  
+  - Español  
+  - Português  
+  - Français  
+  - Deutsch  
+  - Türkçe  
+  - Kichwa (Quechua)  
+  - Nahuatl  
+  - Guaraní  
+
+Each language carries **cultural sensitivity** and **decolonial awareness**, ensuring representation beyond Western paradigms.
+
+---
+
+## 🛠️ Technical Implementation
+
+- ⚡ **Vite:** Modern build tool for speed and simplicity  
+- 🎨 **p5.js:** Interactive creative coding and animation  
+- 🤖 **OpenAI API:** Powers GPT-3.5 text and DALL·E 3 image generation  
+- 💻 **Responsive Design:** Liquid layout adapting to any device  
+- 🔁 **Real-Time Interaction:** Dynamic language switching and live AI output  
+
+🧩 **AI Pipeline Enhancements:**
+- Decolonial prompt engineering  
+- Blade Runner-inspired aesthetics  
+- Anti-AI prompts to avoid generic outputs  
+- Culturally situated narrative logic  
+
 [**Launch App**](https://proteus-umber.vercel.app/)  
 [**View on GitHub**](https://github.com/marlonbarrios/proteus?tab=readme-ov-file#proteus-trans-temporal-dating-portal)
 

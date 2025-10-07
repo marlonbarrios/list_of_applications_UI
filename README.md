@@ -196,6 +196,94 @@ By engaging with **Pangea_IA**, you contribute to a **living archive of decoloni
 ---
 
 ## 🌐 Pluriversal Engine  
+# 🌍 Pluriverse Engine  
+
+### 45 Decolonial Techno-Utopias | Pluriversal Technotopias  
+*A performative AI experience within Pangea.IA*  
+
+<img width="1556" height="1056" alt="Screenshot 2025-10-07 at 7 26 56 PM" src="https://github.com/user-attachments/assets/f8834cc1-f57f-401e-a1f3-e6d0917309bd" />
+
+---
+# 🌍 Pluriverse Engine  
+### 45 Decolonial Techno-Utopias | Pluriversal Technotopias  
+*A performative AI experience within Pangea.IA*  
+
+---
+
+## 💡 Concept
+
+**The Pluriverse Engine** is a **real-time decolonial AI instrument** that generates **techno-utopian worlds**, celebrating specific peoples, cosmologies, and futures.  
+
+It fuses **ancestral visibility** and **speculative imagination** — showing how communities who’ve been erased or marginalized can be central in technologically rich futures. Each of the **45 worlds** is not just a style but a **cosmovision rendered through AI**, where **nature is kin**, **innovation is relational**, and **care is central**.
+
+When you use your **webcam**, your image becomes a part of the speculative process:  
+✨ *You don’t just view a future — you *participate* in its making.*
+
+Check it out live: [Pluriverse Engine](https://pluriverse-engine.vercel.app/)
+
+---
+
+## 🧭 How It Works
+
+- Each world is a **pre-set generative prompt** reflecting a distinct cultural-technological paradigm.
+- When you **click** a world, the system **captures**, **transforms**, and **renders** your webcam input into that world.
+- The effect is both symbolic and experiential — your face becomes part of a **speculative synthesis**.
+
+---
+
+## 🚀 Instructions for Use
+
+### 1. Choose a World  
+Click one of the **45 world icons**. This begins the invocation.  
+⏳ Wait ~30 seconds — do not click anything else while it’s processing.
+
+### 2. Watch the Transformation  
+- The system will transform your **live webcam feed** into the chosen world.  
+- Your **features**, posture, and presence become integrated into the generative world image.  
+- Move **closer to the camera** to better see how your facial features are reinterpreted in the world’s aesthetic frame.
+
+### 3. Adjust Intensity  
+Use controls at the top left:
+
+- **P (Passive)** — softer, more subtle transformation  
+- **A (Active)** — stronger, bolder rendering  
+- **Black & White / B&W** — switch to monochrome mode for a more neutral, minimal aesthetic
+
+### 4. Create a New World (Optional)  
+- Use the integrated **LLM prompt generator**  
+- Describe a world (people, technology, context)  
+- Save and deploy it — it becomes a new generative world in the system
+
+### 5. Reflect  
+Each world is an **image of possibility**, a **dialogue across time and knowledge systems**. Let it provoke thought, memory, and new imaginaries.
+
+---
+
+## 🧠 Conceptual Summary
+
+- **Pluriversal Thinking:** Many worlds, many epistemologies  
+- **Decolonial AI:** Resists colonial visual tropes, centers specific peoples  
+- **Techno-Utopian Futures:** Technology for care, community, and relationality  
+- **Embodied Participation:** You’re not just observer — you become part of the vision  
+- **Speculation as Negotiation:** Futures are co-created, not predetermined  
+
+---
+
+## 🧭 Quick Reference
+
+| Step | What to Do | Tip |
+|------|-------------|------|
+| 1️⃣ | Click a world | Don’t move or click again for 30 seconds |
+| 2️⃣ | Watch transformation | Move closer to camera for nuance |
+| 3️⃣ | Adjust with **P / A / B&W** | Shape the visual strength |
+| 4️⃣ | (Optional) Generate your own | Craft a prompt, save as new world |
+| 5️⃣ | Reflect & engage | Use the result as speculative insight |
+
+---
+
+✨ *Engage the Pluriverse — where invisible worlds become visible, and your presence is part of the map.*  
+[Launch Pluriverse Engine](https://pluriverse-engine.vercel.app/)  
+
 [**View on GitHub**](https://github.com/marlonbarrios/pluriverse_engine)  
 [**Readme Section**](https://github.com/marlonbarrios/pluriverse_engine?tab=readme-ov-file#45-decolonial-techno-utopias–pluriverse-engine)
 

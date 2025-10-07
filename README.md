@@ -85,10 +85,6 @@ It treats data not as static truth but as **living material**, responsive to att
 [**Launch App**](https://pangea-ia-bj2o2.vercel.app/?agentConfig=Pangea_IA)  
 [**View on GitHub**](https://github.com/marlonbarrios/pangea-ia?tab=readme-ov-file#pangea_ia)
 
----
-
-## 🌀 Subtle Vectors of Otherness  
-
 # 🧭 Pangea_IA — Interface Guide  
 ### Decolonial AI Platform for Conversational Exploration
 
@@ -187,9 +183,11 @@ Each session unfolds as a **dialogical performance** — a choreography of **lis
 
 By engaging with **Pangea_IA**, you contribute to a **living archive of decolonial knowledge**, where **AI becomes a collaborator**, not a colonizer.
 
----
 
 🧭 *Welcome to Pangea_IA — an interface for epistemic justice and creative exploration.*
+
+
+
 [**Launch App**](https://subtle-vectors-of-otherness-n6gk.vercel.app/)  
 [**View on GitHub**](https://github.com/marlonbarrios/subtle_vectors_of_otherness?tab=readme-ov-file#subtle-vectors-of-otherness)
 

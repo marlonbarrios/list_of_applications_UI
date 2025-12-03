@@ -1,13 +1,11 @@
 # list_of_Applications/Interfaces/Experiences
 
 
-# 🌍 Pangea_IA Projects
-
 A collection of experimental, generative, and decolonial AI exploring post-geographies, speculative cognition, and the poetics of latent space.
 
 ---
 
-# 🌍 *Pangea in Latent Space: The Tectonics of Otherness* 
+# 🌍 The Tectonics of Otherness* 
 
 <img width="1523" height="1056" alt="Screenshot 2025-09-28 at 4 11 38 PM" src="https://github.com/user-attachments/assets/238e3a8f-fdec-40f9-aa21-7de5e5e04803" />
 
